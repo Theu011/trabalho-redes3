@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Camada de rede – IP
 
 Nesta prática, vamos implementar um protótipo de um protocolo compatível com o IPv4. A implementação será capaz de funcionar como *host*, como roteador, ou como ambos simultaneamente. Focaremos no plano de dados, ou seja, não implementaremos algoritmos de roteamento, apenas o encaminhamento com base em uma tabela previamente montada.
@@ -41,3 +42,6 @@ Sempre que o TTL chegar a zero, além de descartar o datagrama, gere uma mensage
 ## Adiante o seu T5!
 
 O arquivo `exemplo_integracao.py` complementa o do trabalho anterior, colocando a implementação do protocolo IP que você construiu no lugar da implementação do Linux. Caso você tenha feito todos os trabalhos anteriores, tente portá-los para usar a implementação do IP que você acabou de construir.
+=======
+# trabalho-redes3
+>>>>>>> ab8629a65d5df9b85322bd072a8ac9729ddeeffd
